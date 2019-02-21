@@ -1780,5 +1780,5 @@ async def reclamatii_council():
 
 
 
-client.run(os.environ['TOKEN'])
+client.run(os.environ['BOT_TOKEN'])
 
