@@ -1,0 +1,7 @@
+discord
+asyncio
+time
+random
+bs4
+requests
+samp-client
